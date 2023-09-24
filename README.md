@@ -1,0 +1,2 @@
+# salariomensual
+salario mensual
